@@ -1,4 +1,4 @@
-# Clothing-Site-Scrapper
+# Clothing-Site-Scraper
 
 ### Scraped Sites
 
